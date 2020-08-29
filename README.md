@@ -1,6 +1,6 @@
 # João Pedro Alves
 
-Student and future full-stack developer
+ Student and future full-stack developer
 
     [x] Study Html and Css
     [x] Study Mobile First
