@@ -1,6 +1,7 @@
 # João Pedro Alves
 
- Student and future full-stack developer
+Hello, I am João
+Student to be a full-stack developer
 
     [x] Study Html and Css
     [x] Study Mobile First
