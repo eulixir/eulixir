@@ -10,5 +10,8 @@ Student to be a full-stack developer
     [x] Study React
     [x] Study Ux and Ui
     [x] Study MongoDB
+    [x] prototyping
     
 ![Watch the video](https://raw.githubusercontent.com/joaopealves/joaopealves/master/git_documents/Yo.jpeg)
+
+Me :D
