@@ -32,7 +32,7 @@ I am passionate about technologies and games, I like to see the beauty in the co
 <img  width="234px" src="https://raw.githubusercontent.com/joaopealves/joaopealves/master/git_documents/Yo.jpeg" /><br>
 Me :D<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/joão-pedro-alves-910858163/) [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:jotalmeida007@hotmail.com) [![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://github.com/joaopealves/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-oliveira-lucas-8a685683/)](https://www.linkedin.com/in/joão-pedro-alves-910858163/) [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniele_oli_lucas@hotmail.com)](mailto:jotalmeida007@hotmail.com)
 
 </div>
 
@@ -51,6 +51,3 @@ Me :D<br>
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&hide=html&layout=compact&theme=radical" />
 
   </div>
-
-- **[Linkedin](https://www.linkedin.com/in/joão-pedro-alves-910858163/)**
-- **[Github](https://github.com/joaopealves/)**
