@@ -17,15 +17,16 @@ I am passionate about technologies and games, I like to see the beauty in the co
     Node.js
 
 <div align="center">
-<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img  width="30px" height="30px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" />&nbsp;&nbsp;&nbsp;
-<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />&nbsp;&nbsp;&nbsp;
+<img  width="40px" height="40px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" />&nbsp;&nbsp;&nbsp;
+<img  width="40px" height="40px" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" />&nbsp;&nbsp;&nbsp;
+<img  width="40px" height="40px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" />&nbsp;&nbsp;&nbsp;
 <img  width="30px" height="30px" src="https://miro.medium.com/max/700/1*mn6bOs7s6Qbao15PMNRyOA.png" />&nbsp;&nbsp;&nbsp;
-<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>&nbsp;
-<img  width="30px" height="30px" src="https://uploads-ssl.webflow.com/5ea7dc13785664a2a38ef5ec/5ea7dc1378566458078ef78f_React Native Logo.png" />&nbsp;&nbsp;&nbsp;
+<img  width="40px" height="40px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/source.gif" />&nbsp;&nbsp;&nbsp;
+<img  width="40px" height="40px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" />&nbsp;&nbsp;
 <img  width="40px" height="30px" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" />&nbsp;&nbsp;
 <img  width="30px" height="30px" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />&nbsp;&nbsp;&nbsp;
 <img  width="30px" height="30px" src="https://miro.medium.com/max/400/1*7xUxphx7WwttvlFu5gVvVw.png" />&nbsp;&nbsp;&nbsp;
+
 </div>
 <br>
 <div align="center">
@@ -50,4 +51,8 @@ Me :D<br>
 
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
 
+  </div>
+
+  <div align="center">
+  <img  width="430px" height="400px" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" />
   </div>
