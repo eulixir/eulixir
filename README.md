@@ -43,7 +43,7 @@ Me :D<br>
 
 - I’m currently learning React.Js and React Native, Angular, HTML, CSS, TypeScript, MongoDb and Ux and Ui.
 - I’m looking to collaborate on Web Design and UX.
-- I’m looking for help with React
+- I’m looking for help with React and Elixir
 - Ask me about Interface Design
 - How to reach me: LinkedIn and email
 - Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
