@@ -17,6 +17,7 @@ I am passionate about technologies and games, I like to see the beauty in the co
     Java
     MongoDB
     Node.js
+    Elixir
 
 <div align="center">
 <img  width="40px" height="40px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" />&nbsp;&nbsp;&nbsp;
@@ -26,7 +27,6 @@ I am passionate about technologies and games, I like to see the beauty in the co
 <img  width="40px" height="40px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/source.gif" />&nbsp;&nbsp;&nbsp;
 <img  width="40px" height="40px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" />&nbsp;&nbsp;
 <img  width="40px" height="30px" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" />&nbsp;&nbsp;
-<img  width="30px" height="30px" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />&nbsp;&nbsp;&nbsp;
 <img  width="30px" height="30px" src="https://miro.medium.com/max/400/1*7xUxphx7WwttvlFu5gVvVw.png" />&nbsp;&nbsp;&nbsp;
 
 </div>
