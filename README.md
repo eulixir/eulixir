@@ -24,7 +24,7 @@ I am passionate about technologies and games, I like to see the beauty in the co
 
 <!-- - I’m currently working on ... -->
 
-- I’m currently learning React.Js and React Native, Elixir, HTML, CSS, TypeScript, MongoDb and Ux and Ui.
+- I’m currently learning React.Js and React Native, Elixir, HTML, CSS, TypeScript, Ux and Ui.
 - I’m looking to collaborate on Web Design and Elixir.
 - I’m looking for help with React and Elixir
 - Ask me about Interface Design
