@@ -34,6 +34,6 @@ I am passionate about technologies and games, I like to see the beauty in the co
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
      <img width="434px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
 
-### How to reach me:
+### How to contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/joaopealves/) [![Hotmail Badge](https://img.shields.io/badge/Outlook-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:jotalmeida007@hotmail.com)
