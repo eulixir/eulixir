@@ -1,8 +1,8 @@
 # João Pedro Alves <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hello, I am João, welcome to my github
+### Hello, I am João, I have 20 years old and welcome to my profile
 
-I am passionate about technologies and games. I like to see the beauty in the codes and understand how they work
+I am passionate about technologies and games. I like to see the beauty in the codes and understand how they work :)
 <br>
 
 ## Technologies
