@@ -21,6 +21,6 @@ I am passionate about technologies and games. I like to see the beauty in the co
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
      <img width="434px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
 
-<img src="./git_documents/github-user-contribution.svg" />
+<img src="./gitDocs/github-user-contribution.svg" />
 
 ### Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
