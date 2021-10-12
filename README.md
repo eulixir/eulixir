@@ -2,7 +2,7 @@
 
 ### Hello, I am João, I have 20 years old and welcome to my profile
 
-I am passionate about technologies and games. I like to see the beauty in the codes and understand how they work :)
+I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works :)
 <br>
 
 ## Technologies
