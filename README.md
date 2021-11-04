@@ -1,6 +1,6 @@
 # Hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hello my name is João and I'm s software developer. Welcome to my profile :)
+### Hello my name is João and I'm a software developer. Welcome to my profile :)
 
 I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works :)
 <br>
