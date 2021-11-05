@@ -7,7 +7,8 @@ I am passionate about technologies and games. I like to see the beauty in the co
 
 ## Technologies
 
-<div text-align="justify">
+<center>
+
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -17,10 +18,14 @@ I am passionate about technologies and games. I like to see the beauty in the co
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-</div>
-    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
-     <img width="230px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
+
+</center>
+<center>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
+    </br>
+     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
+</center>
 
 <img src="./gitDocs/github-user-contribution.svg" />
 
-### Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
+     Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
