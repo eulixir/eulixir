@@ -1,6 +1,6 @@
 # João Pedro Alves <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hello, I am João, I have 20 years old and welcome to my profile
+### Hello, I am João and I am 20 years old. Welcome to my profile :)
 
 I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works :)
 <br>
@@ -18,8 +18,8 @@ I am passionate about technologies and games. I like to see the beauty in the co
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 </div>
-    <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
-     <img width="434px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
+    <img width="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
+     <img width="230px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
 
 <img src="./gitDocs/github-user-contribution.svg" />
 
