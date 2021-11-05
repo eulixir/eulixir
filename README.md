@@ -22,8 +22,9 @@ I am passionate about technologies and games. I like to see the beauty in the co
 
 </center>
 <center>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
-    </br>
+     </br>
+     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
+     </br>
      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
 </center>
 
