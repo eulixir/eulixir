@@ -2,7 +2,7 @@
 
 ### Hello my name is João and I'm a software developer. Welcome to my profile :)
 
-I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works :)
+I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works.
 <br>
 
 ## Technologies
