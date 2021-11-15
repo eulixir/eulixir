@@ -25,7 +25,7 @@ I am passionate about technologies and games. I like to see the beauty in the co
      </br>
      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
      </br>
-     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />
+     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&show_icons=true&theme=radical" />
 </center>
 
 <img src="./gitDocs/github-user-contribution.svg" />
