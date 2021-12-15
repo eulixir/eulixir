@@ -19,8 +19,8 @@ I am Backend Developer and I am passionate about technologies and games. I like 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 </div>
-
 </center>
+
 <center>
      </br>
      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
