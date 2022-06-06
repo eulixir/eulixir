@@ -1,4 +1,4 @@
-# Hello, world
+# Hello, world!
 
 ### Hello my name is João and I'm a software developer. Welcome to my profile :)
 
