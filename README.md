@@ -1,4 +1,4 @@
-# Hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 ### Hello my name is João and I'm a software developer. Welcome to my profile :)
 
