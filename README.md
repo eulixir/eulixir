@@ -1,24 +1,43 @@
-# Hello, world!
+# Hello world!
 
-### Hello my name is João and I'm a software developer. Welcome to my profile :)
+### About me
 
-I am Backend Developer and I am passionate about technologies and games. I like to see the beauty in the codes and understand how they works.
+I code by day, watch animes by night. My superpower is fixing bugs in less time than it takes to make a cup of coffee. 💻☕️
 <br>
 
-## Technologies
+## Techs
 
 <center>
+
+### Backend
+
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
-<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
-<img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/Elixir-20232A?style=for-the-badge&logo=elixir&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB" />
 </div>
+
+### Frontend
+
+<div text-align="justify">
+
+<img src="https://img.shields.io/badge/html5-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/css3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Js-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Ts-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" />
+</div>
+
+### Database
+
+<div text-align="justify">
+<img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
+</div>
+
 </center>
 
 <center>
@@ -28,5 +47,3 @@ I am Backend Developer and I am passionate about technologies and games. I like 
 </center>
 
 <img src="./gitDocs/github-user-contribution.svg" />
-
-     Fun fact: Have you ever stopped to think that the money is not yours, it's just your turn to spend it?
