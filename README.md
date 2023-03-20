@@ -36,6 +36,8 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDb-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MySql-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
+
 </div>
 
 </center>
