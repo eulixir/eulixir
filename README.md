@@ -42,10 +42,5 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 
 </center>
 
-<center>
-     </br>
-     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
-     </br>
-</center>
 
 <img src="./gitDocs/github-user-contribution.svg" />
