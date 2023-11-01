@@ -41,6 +41,3 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 </div>
 
 </center>
-
-
-<img src="./gitDocs/github-user-contribution.svg" />
