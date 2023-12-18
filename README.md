@@ -33,6 +33,8 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 
 ### Mobile
 
+<div text-align="justify">
+
 <img src="https://img.shields.io/badge/swift-20232A?style=for-the-badge&logo=swift&logoColor=61DAFB" />
 
 ### Database
