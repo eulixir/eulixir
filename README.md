@@ -31,6 +31,10 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 <img src="https://img.shields.io/badge/NextJs-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" />
 </div>
 
+### Mobile
+
+<img src="https://img.shields.io/badge/swift-20232A?style=for-the-badge&logo=swift&logoColor=61DAFB" />
+
 ### Database
 
 <div text-align="justify">
