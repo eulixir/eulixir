@@ -17,6 +17,7 @@ I code by day, watch animes by night. My superpower is fixing bugs in less time 
 <img src="https://img.shields.io/badge/NestJs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Golang-20232A?style=for-the-badge&logo=go&logoColor=61DAFB" />
 </div>
 
 ### Frontend
